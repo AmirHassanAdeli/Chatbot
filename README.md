@@ -31,7 +31,7 @@ It combines semantic search with generative AI to provide accurate and context-a
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/AmirHassanAdeli/Chatbot
 cd your-repo
 pip install -r requirements.txt
 
@@ -53,6 +53,3 @@ pip install -r requirements.txt
 	•	Add database persistence for embeddings
 	•	Improve prompt engineering for better control
 
-📜 License
-
-This project is released under the MIT License.
